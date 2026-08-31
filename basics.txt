@@ -1,0 +1,19 @@
+rag_project/
+│
+├── data/
+│   └── documents.pdf, notes.txt, records.csv
+│
+├── ingest.py
+│   # Loads documents into the database
+│
+├── database.py
+│   # Connects to your vector database or SQL database
+│
+├── rag_chain.py
+│   # Handles retrieval + LLM response
+│
+├── app.py
+│   # User interface, API, or chatbot
+│
+└── .env
+    # API keys and database credentials
