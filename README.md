@@ -10,9 +10,11 @@ This is to demonstrate how LLM's can take a piece of philosophical text that can
 By <a href="https://www.wikidata.org/wiki/Q4233718" class="extiw" title="d:Q4233718"><span title="unknown creator of a work (do not use as value of P50; use &quot;unknown value&quot; instead)">anonymous</span></a> &nbsp;<span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q99567162#P170" title="Edit this at Wikidata"></a></span> - This image has been extracted from another file, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=303545">Link</a>
 
 
-Ask a question: Neuralink’s development of brain-computer interfaces raises hopes for medical breakthroughs but also serious concerns over animal testing, scientific feasibility, and the ethical costs of rapid innovation. This case asks whether the pursuit of transformative technology justifies the harms incurred along the way.
+
 
 EXAMPLE OUTPUT
+PROMPT
+Ask a question: Neuralink’s development of brain-computer interfaces raises hopes for medical breakthroughs but also serious concerns over animal testing, scientific feasibility, and the ethical costs of rapid innovation. This case asks whether the pursuit of transformative technology justifies the harms incurred along the way.
 
 Answer:
 In addressing the ethical implications of Neuralink's development of brain-computer interfaces through the lens of Spinoza's *Ethics*, we can draw upon several key concepts from the provided excerpts.
